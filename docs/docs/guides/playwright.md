@@ -147,7 +147,7 @@ In the current stage of Synpress development, the `playwright test` command will
 To run your tests in the headless mode, you need to use the `HEADLESS` environmental variable:
 
 ```bash
-HEADLESS=true playwrighe test
+HEADLESS=true playwright test
 ```
 
 This behavior will be changed in the future to resemble Playwright's default behavior.
